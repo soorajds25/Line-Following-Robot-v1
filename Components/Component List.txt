@@ -1,0 +1,14 @@
+Smartelex 8 channel IR sensor array
+Arduino Nano
+TB6612FNG Motor Driver
+Push Button
+ON/OFF Switch
+3 x 3.7v 2200mAh 18650 Li-on battery
+Custom Chassis (I had laser cut it on 2mm thick black acrylic)
+N20 motor (12v, 600rpm)
+3D printed N20 clamps(usually available online)
+Wheel (with good grip and suitable for N20 motor)
+Castor wheel (suitable for N20 motor, it should be small)
+Battery holder for Li-on battery or custom pack
+Screw terminal (for battery and motors)
+1 x 10K Ohm resistor
